@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 This is a new section with some text
 
 ## Another One
+
+
+Copyright Eduardo
