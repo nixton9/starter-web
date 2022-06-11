@@ -12,4 +12,4 @@ This is a new section with some text
 ## Another One
 And some more changes here
 
-Copyright Eduardo
+Copyright Eduardo @ 2022 lets go
