@@ -4,6 +4,7 @@
 # TEAM
 
     Edd - edd@ua.pt
+   John - john@ua.pt
 
 # THANKS
 
