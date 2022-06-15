@@ -12,7 +12,7 @@ This is a new section with some text
 ## Another One
 And some more changes here
 
-Copyright Eduardo @ 2022 lets go
+Copyright Eduardooo @ 2022 lets go
 
 #One more section
 Yeahh
